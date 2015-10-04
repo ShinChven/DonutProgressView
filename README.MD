@@ -15,3 +15,19 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"/>
 ```
+
+#styleable
+
+``` xml
+    <declare-styleable name="zagyou_circle_progress">
+        <attr name="text" format="string"></attr>
+        <attr name="textColor" format="color"></attr>
+        <attr name="textSize" format="dimension"></attr>
+        <attr name="progress" format="integer"></attr>
+        <attr name="maxProgress" format="integer"></attr>
+        <attr name="progressBackgroundColor" format="color"></attr>
+        <attr name="progressColor" format="color"></attr>
+        <attr name="lineWidth" format="dimension"></attr>
+        <attr name="progressMargin" format="dimension"></attr>
+    </declare-styleable>
+```
