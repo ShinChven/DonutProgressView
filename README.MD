@@ -28,6 +28,5 @@
         <attr name="progressBackgroundColor" format="color"></attr>
         <attr name="progressColor" format="color"></attr>
         <attr name="lineWidth" format="dimension"></attr>
-        <attr name="progressMargin" format="dimension"></attr>
     </declare-styleable>
 ```
