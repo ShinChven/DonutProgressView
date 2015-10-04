@@ -9,8 +9,6 @@
         <attr name="progressBackgroundColor" format="color"></attr>
         <attr name="progressColor" format="color"></attr>
         <attr name="lineWidth" format="dimension"></attr>
-        <attr name="progressMargin" format="dimension"></attr>
-
     </declare-styleable>
     <color name="circle_progress_default_background_color">#999999</color>
     <color name="circle_progress_default_color">#3cb0f3</color>
