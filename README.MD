@@ -1,8 +1,8 @@
 ![Screenshot](https://raw.githubusercontent.com/ShinChven/DonutProgressView/master/screenshot/screenshot.jpg)<p>
 
 # xml usage
-<p>
-``` xml
+
+```xml
      <com.github.ShinChven.widget.DonutProgressView
                 android:layout_centerInParent="true"
                 android:id="@+id/my_donut_progress"
@@ -18,7 +18,7 @@
 
 # styleable
 
-``` xml
+```xml
     <declare-styleable name="zagyou_circle_progress">
         <attr name="text" format="string"></attr>
         <attr name="textColor" format="color"></attr>
